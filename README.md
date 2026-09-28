@@ -1,20 +1,62 @@
-<h1 align="center">Hi 👋, I'm Noyan Das</h1>
-<h3 align="center">💻 Full Stack Developer (React, Next.js, TypeScript) | 🎓 CSE Student @ Daffodil International University</h3>
+# Hi 👋, I'm Noyan Das
 
-- 💬 Ask me about **React, Next.js App Router, TypeScript, and Tailwind CSS**
+### 💻 Full Stack Developer (React, Next.js, TypeScript) | 🎓 CSE Student @ Daffodil International University
 
-- 📫 How to reach me **das680970@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nayanbddm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayanbddm" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me  
+I am a part-time **Full Stack Developer** and a Computer Science and Engineering undergraduate, gearing up to transition into a full-time engineering. I specialize in building high-performance, modern web applications using **React**, **Next.js App Router**, and **TypeScript**. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Beyond crafting user interfaces, I am actively exploring **Blockchain smart contract development**, alongside my academic focus on core engineering. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayancsbd&show_icons=true&locale=en&layout=compact" alt="nayancsbd" /></p>
+- 🔭 **I’m currently working on:** Modern web applications like **Fit-Log** (a daily planning & workout tracker) and **Movie Explorer**.
+- 🌱 **I’m currently exploring:** Blockchain development and advanced/3D computer software.
+- 👯 **I’m looking to collaborate on:** Open-source React, Next.js, and TypeScript projects.
+- ⚡ **Fun fact:** I balance building responsive front-end UI components with calculating IPv4 subnets and SQL joins for my university exams!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayancsbd&show_icons=true&locale=en" alt="nayancsbd" /></p>
+---
+
+## 🛠️ Tech Stack  
+
+### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Tools & Deployment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+- **[Fit-Log](https://github.com/nayancsbd/fit-log.git):** A workout and daily planning web application built with Next.js, featuring interactive UI components and deployed via Vercel.
+- **[Movie Explorer](https://github.com/nayancsbd/Movie-Explorer-Application.git):** A modular application built with Vite, React, and TypeScript, utilizing Tailwind CSS for a highly responsive design.
+- **[dev-stack](https://github.com/nayancsbd/dev-stack.git):** A configured full-stack development environment setup with automated Git workflows.
+
+---
+
+## 📊 GitHub Stats  
+
+| GitHub Activity | Top Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayancsbd&show_icons=true&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayancsbd&layout=compact&theme=transparent&hide_border=true) |
+
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayancsbd&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nayanbddm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:das680970@gmail.com)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayancsbd&" alt="nayancsbd" /></p>

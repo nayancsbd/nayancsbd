@@ -1,8 +1,27 @@
-# Hi 👋, I'm Noyan Das
+<!-- :) copy :) ===================== BANNER ===================== -->
+<p align="center">
+  <img src="./banner/banner.png" alt="nayan das banner" />
+</p>
 
-### 💻 Full Stack Developer (React, Next.js, TypeScript) | 🎓 CSE Student @ Daffodil International University
+<!-- ===================== INTRO ===================== -->
 
----
+<h1 align="center">NAYAN DAS</h1>
+
+<h3 align="center">
+  CSE Aspirant · Full-Stack Developer in Progress
+</h3>
+
+<p align="center">
+  <a href="https://nayanbddm.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-nayanbddm.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nayanbddm">
+    <img src="https://img.shields.io/badge/Go LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:das680970@gmail.com">
+    <img src="https://img.shields.io/badge/Get Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## 👨‍💻 About Me  
 I am a part-time **Full Stack Developer** and a Computer Science and Engineering undergraduate, gearing up to transition into a full-time engineering. I specialize in building high-performance, modern web applications using **React**, **Next.js App Router**, and **TypeScript**. 
@@ -12,9 +31,17 @@ Beyond crafting user interfaces, I am actively exploring **Blockchain smart cont
 - 🔭 **I’m currently working on:** Modern web applications like **Fit-Log** (a daily planning & workout tracker) and **Movie Explorer**.
 - 🌱 **I’m currently exploring:** Blockchain development and advanced/3D computer software.
 - 👯 **I’m looking to collaborate on:** Open-source React, Next.js, and TypeScript projects.
-- ⚡ **Fun fact:** I balance building responsive front-end UI components with calculating IPv4 subnets and SQL joins for my university exams!
+- ⚡ **Fun fact:** I balance building responsive front-end UI and backend components with academic curriculums.
 
 ---
+
+## 🌐 **Portfolio:**
+
+<p align="center">
+  <a href="https://nayanbddm.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-nayanbddm.vercel.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack  
 
@@ -44,14 +71,22 @@ Beyond crafting user interfaces, I am actively exploring **Blockchain smart cont
 
 ## 📊 GitHub Stats  
 
-| GitHub Activity | Top Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayancsbd&show_icons=true&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayancsbd&layout=compact&theme=transparent&hide_border=true) |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayancsbd&theme=github" width="100%" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayancsbd&theme=github" width="49%" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayancsbd&theme=github" width="49%" alt="Most commit language" />
+</p>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayancsbd&" alt="nayancsbd" />
+</div>
 
 <br />
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayancsbd&style=flat-square&color=blue" alt="Profile views" />
-</div>
 
 ---
 
@@ -59,4 +94,11 @@ Beyond crafting user interfaces, I am actively exploring **Blockchain smart cont
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nayanbddm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:das680970@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayancsbd&" alt="nayancsbd" /></p>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayancsbd&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+

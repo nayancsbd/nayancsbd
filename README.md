@@ -90,15 +90,24 @@ Beyond crafting user interfaces, I am actively exploring **Blockchain smart cont
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayancsbd/nayancsbd/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayancsbd/nayancsbd/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/nayancsbd/nayancsbd/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nayanbddm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:das680970@gmail.com)
 
-
-
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nayancsbd&style=flat-square&color=blue" alt="Profile views" />
 </div>
-
-

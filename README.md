@@ -5,7 +5,7 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">NAYAN DAS</h1>
+<h1 align="center">NOYAN DAS</h1>
 
 <h3 align="center">
   CSE Aspirant · Full-Stack Developer in Progress

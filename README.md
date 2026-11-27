@@ -1,6 +1,6 @@
 <!-- :) copy :) ===================== BANNER ===================== -->
 <p align="center">
-  <img src="./banner/github-banner.png" alt="nayan das banner" />
+  <img src="./banner/github-banner.jpg" alt="nayan das banner" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
